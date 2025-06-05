@@ -87,8 +87,6 @@ function App() {
           Add Task
         </button>
       </div>
-
-      {/* Filter Dropdown */}
       <div className="flex justify-center mb-4">
         <select
           value={filter}
